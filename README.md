@@ -142,4 +142,3 @@ A model that succeeds for the wrong reasons is inherently fragile under distribu
 - Model: Convolutional neural network trained under biased distributions  
 - Environment: PyTorch, Jupyter / Colab  
 
-Code is available upon request and will be released in a future update.
